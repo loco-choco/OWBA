@@ -1,0 +1,21 @@
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Debug\0Harmony.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Debug\Assembly-CSharp - Copia.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Debug\HarmonyDnet2Fixes.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Debug\UnityEngine.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Debug\Assembly-UnityScript-firstpass.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Debug\System.Core.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Debug\System.Xml.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Debug\System.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Debug\Mono.Security.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Debug\DecalSystem.Runtime.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Debug\Boo.Lang.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Debug\UnityScript.Lang.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\obj\Debug\EM.csprojAssemblyReference.cache
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\obj\Debug\EM.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\obj\Debug\EM.csproj.CopyComplete
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Debug\IMOWAAnotations.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Debug\EM.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Debug\EM.pdb
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\obj\Debug\EM.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\obj\Debug\EM.pdb

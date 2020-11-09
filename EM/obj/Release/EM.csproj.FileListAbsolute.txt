@@ -1,0 +1,21 @@
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\0Harmony.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\Assembly-CSharp - Copia.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\HarmonyDnet2Fixes.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\IMOWAAnotations.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\UnityEngine.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\Assembly-CSharp-firstpass.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\Assembly-UnityScript-firstpass.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\System.Core.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\System.Xml.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\System.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\Mono.Security.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\DecalSystem.Runtime.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\Boo.Lang.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\UnityScript.Lang.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\obj\Release\EM.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\obj\Release\EM.csproj.CopyComplete
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\EM.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\EM.pdb
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\obj\Release\EM.csprojAssemblyReference.cache
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\obj\Release\EM.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\obj\Release\EM.pdb

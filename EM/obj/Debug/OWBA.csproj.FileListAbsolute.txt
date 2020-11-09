@@ -1,0 +1,18 @@
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\OWButInTheAlpha\bin\Debug\UnityEngine.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\OWButInTheAlpha\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\OWButInTheAlpha\bin\Debug\Assembly-UnityScript-firstpass.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\OWButInTheAlpha\bin\Debug\System.Xml.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\OWButInTheAlpha\bin\Debug\Mono.Security.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\OWButInTheAlpha\bin\Debug\DecalSystem.Runtime.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\OWButInTheAlpha\bin\Debug\Boo.Lang.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\OWButInTheAlpha\bin\Debug\UnityScript.Lang.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\OWButInTheAlpha\obj\Debug\OWBA.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\OWButInTheAlpha\obj\Debug\OWBA.csproj.CopyComplete
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\OWButInTheAlpha\bin\Debug\OWBA.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\OWButInTheAlpha\bin\Debug\OWBA.pdb
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\OWButInTheAlpha\obj\Debug\OWBA.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\OWButInTheAlpha\obj\Debug\OWBA.pdb
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\OWButInTheAlpha\bin\Debug\Assembly-CSharp - Copia.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\OWButInTheAlpha\bin\Debug\0Harmony.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\OWButInTheAlpha\bin\Debug\System.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\OWButInTheAlpha\bin\Debug\System.Core.dll
