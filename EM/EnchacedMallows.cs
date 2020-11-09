@@ -49,9 +49,9 @@ namespace EM
 
     }
 
-    
-    //[HarmonyPatch(typeof(Marshmallow))]
-    //[HarmonyPatch("Update")]
+
+    [HarmonyPatch(typeof(Marshmallow))]
+    [HarmonyPatch("Update")]
     class Marshmallow_UpdatePatch //Marshmallow_Update
     {
 
@@ -108,8 +108,8 @@ namespace EM
     }
 
 
-    //[HarmonyPatch(typeof(Marshmallow))]
-    //[HarmonyPatch("ResetMarshmallow")]
+    [HarmonyPatch(typeof(Marshmallow))]
+    [HarmonyPatch("ResetMarshmallow")]
     class Marshmallow_ResetMarshmallowPatch //Marshmallow_ResetMarshmallow
     {
 
