@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="EnchacedMallows.cs" />
+    <Compile Include="EnhancedMallows.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -45,7 +45,7 @@
     </Reference>
     <Reference Include="HarmonyDnet2Fixes, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\DIMOWA\Instalador\0Harmony\HarmonyDnet2Fixes.dll</HintPath>
+      <HintPath>..\..\DIMOWA\Instalador\HarmonyDnet2Fixes.dll</HintPath>
     </Reference>
     <Reference Include="IMOWAAnotations, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>

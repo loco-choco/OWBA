@@ -8,7 +8,7 @@ using IMOWAAnotations;
 
 namespace EM
 {
-    public class EnchacedMallows
+    public class EnhancedMallows
     {
         public static void DefaultMallowScale(Renderer mallowRender) 
         {
@@ -27,7 +27,7 @@ namespace EM
             Debug.Log($"Valor de _toastLevel : {a}");
         }
 
-        [IMOWAModInnit("Marshmallow", "Start", modName = "EnchacedMallows")]
+        [IMOWAModInnit("PlayerBody", "Awake", modName = "Enhanced Mallows")]
         public static void ModInnit(string nomeDoMod)
         {
             Debug.Log("Começou o ModInnit");
@@ -89,7 +89,7 @@ namespace EM
                 codes.Insert(index + 1, HarmonyCodeInstructionsConstructors.LoadField(typeof(Marshmallow), "_mallowRenderer"));
                 codes.Insert(index + 2, new CodeInstruction(OpCodes.Ldarg_0));
                 codes.Insert(index + 3, HarmonyCodeInstructionsConstructors.LoadField(typeof(Marshmallow), "_toastLevel"));
-                codes.Insert(index + 4, HarmonyCodeInstructionsConstructors.Call(typeof(EnchacedMallows), "ChangeMallowScale", new Type[] { typeof(Renderer), typeof(float) }));
+                codes.Insert(index + 4, HarmonyCodeInstructionsConstructors.Call(typeof(EnhancedMallows), "ChangeMallowScale", new Type[] { typeof(Renderer), typeof(float) }));
 
                 Debug.Log("Criar os CodeInstructions de Marshmallow_UpdatePatch foi um sucesso");
             }
@@ -143,11 +143,11 @@ namespace EM
             {
                 codes.Insert(index1, new CodeInstruction(OpCodes.Ldarg_0));
                 codes.Insert(index1 + 1, HarmonyCodeInstructionsConstructors.LoadField(typeof(Marshmallow), "_mallowRenderer"));
-                codes.Insert(index1 + 2, HarmonyCodeInstructionsConstructors.Call(typeof(EnchacedMallows), "DefaultMallowScale", new Type[] { typeof(Renderer) }));
+                codes.Insert(index1 + 2, HarmonyCodeInstructionsConstructors.Call(typeof(EnhancedMallows), "DefaultMallowScale", new Type[] { typeof(Renderer) }));
 
                 codes.Insert(index2, new CodeInstruction(OpCodes.Ldarg_0));
                 codes.Insert(index2 + 1, HarmonyCodeInstructionsConstructors.LoadField(typeof(Marshmallow), "_mallowRenderer"));
-                codes.Insert(index2 + 2, HarmonyCodeInstructionsConstructors.Call(typeof(EnchacedMallows), "DefaultMallowScale", new Type[] { typeof(Renderer) }));
+                codes.Insert(index2 + 2, HarmonyCodeInstructionsConstructors.Call(typeof(EnhancedMallows), "DefaultMallowScale", new Type[] { typeof(Renderer) }));
 
                 Debug.Log("Criar os CodeInstructions de Marshmallow_ResetMarshmallowPatch foi um sucesso");
 

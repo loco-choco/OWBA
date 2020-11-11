@@ -151,7 +151,7 @@ namespace CBC
         }
 
 
-        [IMOWAModInnit("FlightConsole", "Awake", modName = "CoolerBottomCams")]
+        [IMOWAModInnit("FlightConsole", "Awake", modName = "Cooler Bottom Cams")]
         public static void ModInnit(string nomeDoMod)
         {
             GameObject.Find("LandingCam").AddComponent<CoolerBottomCams>();

@@ -16,6 +16,7 @@ C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\obj\Release
 C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\obj\Release\EM.csproj.CopyComplete
 C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\EM.dll
 C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\EM.pdb
-C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\obj\Release\EM.csprojAssemblyReference.cache
 C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\obj\Release\EM.dll
 C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\obj\Release\EM.pdb
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\EM.dll.CodeAnalysisLog.xml
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\EM.dll.lastcodeanalysissucceeded
