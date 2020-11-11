@@ -4,7 +4,7 @@ A bundle of mods that aim to get things from the latest version to the alpha
 ### How do I install it?
 
 0. Follow instalation of [DIMOWA](https://github.com/ShoosGun/DIMOWA) if you haven't already. 
-1. Dowload the dlls from one of the [releases](https://github.com/ShoosGun/OWBA/releases)
+1. Dowload the dlls from one of the [releases](https://github.com/ShoosGun/OWBA/releases).
 1. Place the dll from the mod that you want in the `mods` folder.
 2. Run the installer.
 
