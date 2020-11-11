@@ -1,4 +1,4 @@
-# OWBA - Outer Wilds But in the Alpha(first version)
+# OWBA - Outer Wilds But in the Alpha v.1.0.0
 A bundle of mods that aim to get things from the latest version to the alpha
 
 ### How do I install it?
@@ -13,9 +13,9 @@ Using [DIMOWA](https://github.com/ShoosGun/DIMOWA), if the mod is already instal
 
 ### What do they do?
 
-#### EM (Enchanced Mallows)
+#### EM (Enchanced Mallows) - v.1.0.0
 It adds some cool effects to make camping more enjoyable
 
-#### CBC (Cooler Bottom Cams)
-It changes how the camera view on the ship works.
+#### CBC (Cooler Bottom Cams) - v.1.0.0
+It changes how the camera view of the ship works.
   
