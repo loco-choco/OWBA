@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Reflection.Emit;
 using UnityEngine;
-using IMOWAAnotations;
+using CAMOWA;
 using HarmonyLib;
 using HarmonyDNet2Fixes;
 
@@ -149,9 +149,8 @@ namespace CBC
         {
             GameObject.Find("LandingCam").GetComponent<CoolerBottomCams>()._renderizarNaTela = true;
         }
-
-
-        [IMOWAModInnit("FlightConsole", "Awake", modName = "Cooler Bottom Cams")]
+        
+        [IMOWAModInnit("Cooler Bottom Cams", 1, 2)]
         public static void ModInnit(string nomeDoMod)
         {
             GameObject.Find("LandingCam").AddComponent<CoolerBottomCams>();

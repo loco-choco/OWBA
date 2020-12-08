@@ -1,7 +1,6 @@
 C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\0Harmony.dll
 C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\Assembly-CSharp - Copia.dll
 C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\HarmonyDnet2Fixes.dll
-C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\IMOWAAnotations.dll
 C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\UnityEngine.dll
 C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\Assembly-CSharp-firstpass.dll
 C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\Assembly-UnityScript-firstpass.dll
@@ -18,5 +17,5 @@ C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release
 C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\EM.pdb
 C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\obj\Release\EM.dll
 C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\obj\Release\EM.pdb
-C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\EM.dll.CodeAnalysisLog.xml
-C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\EM.dll.lastcodeanalysissucceeded
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\bin\Release\CAMOWA.dll
+C:\Users\ivanr\Desktop\Modding\Mods with 'LOADER'\OWButInTheAlpha\EM\obj\Release\EM.csprojAssemblyReference.cache

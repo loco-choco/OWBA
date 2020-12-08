@@ -4,7 +4,7 @@ using System.Reflection.Emit;
 using UnityEngine;
 using HarmonyLib;
 using HarmonyDNet2Fixes;
-using IMOWAAnotations;
+using CAMOWA;
 
 namespace EM
 {
@@ -27,7 +27,7 @@ namespace EM
             Debug.Log($"Valor de _toastLevel : {a}");
         }
 
-        [IMOWAModInnit("PlayerBody", "Awake", modName = "Enhanced Mallows")]
+        [IMOWAModInnit("Enhanced Mallows",1,2)]
         public static void ModInnit(string nomeDoMod)
         {
             Debug.Log("Começou o ModInnit");
